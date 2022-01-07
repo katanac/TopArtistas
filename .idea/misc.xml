@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Karen.Pena/AndroidStudioProjects/TopArtistasFm/app/src/main/res/drawable/gradient_item.xml" value="0.2890625" />
+        <entry key="..\:/Users/Karen.Pena/AndroidStudioProjects/TopArtistasFm/app/src/main/res/drawable/ic_listeners_24dp.xml" value="0.2890625" />
+        <entry key="..\:/Users/Karen.Pena/AndroidStudioProjects/TopArtistasFm/app/src/main/res/font/fuentes.xml" value="0.303125" />
+        <entry key="..\:/Users/Karen.Pena/AndroidStudioProjects/TopArtistasFm/app/src/main/res/font/times_romans.xml" value="0.303125" />
+        <entry key="..\:/Users/Karen.Pena/AndroidStudioProjects/TopArtistasFm/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/Karen.Pena/AndroidStudioProjects/TopArtistasFm/app/src/main/res/layout/item_artista.xml" value="0.2234375" />
+        <entry key="..\:/Users/Karen.Pena/AndroidStudioProjects/TopArtistasFm/app/src/main/res/layout/item_cancion.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/Karen.Pena/AndroidStudioProjects/TopArtistasFm/app/src/main/res/layout/listado_cancion.xml" value="0.14719202898550723" />
+        <entry key="..\:/Users/Karen.Pena/AndroidStudioProjects/TopArtistasFm/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.2890625" />
+        <entry key="..\:/Users/Karen.Pena/AndroidStudioProjects/TopArtistasFm/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.2890625" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.27291666666666664" />
+      </ProjectState>
+    </option>
+  </component>
+</project>
